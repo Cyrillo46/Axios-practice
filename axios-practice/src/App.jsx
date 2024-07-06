@@ -1,11 +1,11 @@
 import "./App.css";
-import { FirstRequest } from "./Components/FirstRequest";
+import { Headers } from "./Components/Headers";
 
 function App() {
   return (
     <>
       <div>
-        <FirstRequest />
+        <Headers />
       </div>
     </>
   );
