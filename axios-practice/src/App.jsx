@@ -1,10 +1,11 @@
 import "./App.css";
+import { FirstRequest } from "./Components/FirstRequest";
 
 function App() {
   return (
     <>
       <div>
-        <h1>Axios</h1>
+        <FirstRequest />
       </div>
     </>
   );
